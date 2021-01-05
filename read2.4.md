@@ -47,7 +47,7 @@ code written as following : <a href="http://www.imdb.com" target="_blank">
 5. Linking to a Specific Part of the Same Page:
 in order to use this you at first to give id to each element you want to refer to in order to use the linking attribute to make easier for the user to navegate through your site here is an example:
 Ex: 
-> <h1 id="top">Film-Making Terms</h1>
+<!-- > <h1 id="top">Film-Making Terms</h1>
 > <a href="#arc_shot">Arc Shot</a><br />
 > <a href="#interlude">Interlude</a><br />
 > <a href="#prologue">Prologue</a><br /><br />
@@ -62,7 +62,7 @@ Ex:
 > <p>A speech, preface, introduction, or brief scene
 > preceding the the main action or plot of a film;
 > contrast to epilogue</p>
-> <p><a href="#top">Top</a></p>
+> <p><a href="#top">Top</a></p> -->
 
 6. Linking to a Specific Part of Another Page:
 its same as before but the section in the other page has to have an id so you can refer back to it
